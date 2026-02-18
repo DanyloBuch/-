@@ -27,7 +27,7 @@ namespace Geometry_Dash.GameLogic
         private float rotationAngle = 0;
 
         // Додаємо константу замість "магічного" рядка
-        private const string PlayerResourcePath = "Resources/player_block.png";
+       
 
         public Player(Control.ControlCollection controls, Size clientSize)
         {
